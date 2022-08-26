@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6/0hyNHMf6kCx0382fEiqq0894DFMl6Xa2qlqGLtbjNc25xecqaBMalKAMCp8cpGshWdImTAIUtu3IU8apHOsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wilson\\source\\repos\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wilson\\.nuget\\packages\\coreclr-ncalc\\2.2.110\\coreclr-ncalc.2.2.110.nupkg.sha512"
+  ],
+  "logs": []
+}
